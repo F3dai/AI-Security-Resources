@@ -30,3 +30,7 @@ List of resources I've been using to learn AI with cyber security use cases.
 
 - [Cybersecurity and AI: Enabling Security While Managing Risk](https://www.gartner.com/en/cybersecurity/topics/cybersecurity-and-ai)
 - [NCSC - The near-term impact of AI on the cyber threat](https://www.ncsc.gov.uk/pdfs/report/impact-of-ai-on-cyber-threat.pdf)
+
+## Videos
+
+- [LLM Threat Modelling - AWS](https://www.youtube.com/watch?v=TtRFQPlRYK4)
