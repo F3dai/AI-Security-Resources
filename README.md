@@ -25,6 +25,7 @@ List of resources I've been using to learn AI with cyber security use cases.
 - [SANS SEC595: Applied Data Science and AI/Machine Learning for Cybersecurity Professionals](https://www.sans.org/cyber-security-courses/applied-data-science-machine-learning/)
 - [SANS AIS247: AI Security Essentials for Business Leaders](https://www.sans.org/cyber-security-courses/ai-security-essentials-business-leaders/)
 - [IBM Generative AI for Cybersecurity Professionals Specialization](https://www.coursera.org/specializations/generative-ai-for-cybersecurity-professionals)
+- [AI Security Must Learn - Rod Trent](https://github.com/rod-trent/OpenAISecurity/tree/main/Must_Learn)
 
 ## Reports
 
